@@ -1,0 +1,18 @@
+.img{
+    height: 500px;
+}
+.imagen{
+    text-align:left;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+.img_pitufo{
+    height: 8%;
+    width: 8%;
+    border: solid 2px rgb(0, 204, 255);
+    border-radius: 50%;
+}
+.smiti{
+    font-size: 20px;
+}
